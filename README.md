@@ -1,6 +1,6 @@
 # Projet "19_20"
 
-[Lien Github](https://github.com/agapestack/19-20)
+[Lien Github]([https://github.com/agapestack/19-20](https://github.com/Quanghng/BoardGames-in-React-Rtk))
 
 >Project consisting of the production of the board games Kulami and Quantik.
 
@@ -28,6 +28,14 @@ make run-front
 # run back-end
 make run-back
 ```
+
+## Demos
+
+![Homepage](https://github.com/Quanghng/BoardGames-in-React-Rtk/assets/90704201/6d31c871-2b12-4e19-bc22-60baeac2d99b)
+
+![Kulami](https://github.com/Quanghng/BoardGames-in-React-Rtk/assets/90704201/cf64eaaa-3712-442b-a71a-d19512a730ed)
+
+![Quantik](https://github.com/Quanghng/BoardGames-in-React-Rtk/assets/90704201/cb2cd1f1-7d99-4d78-bd21-e4a58be23cfe)
 
 ## Todos
 
