@@ -31,7 +31,7 @@ make run-back
 
 ## Demos
 
-![Homepage](https://github.com/Quanghng/BoardGames-in-React-Rtk/assets/90704201/6d31c871-2b12-4e19-bc22-60baeac2d99b)
+![Homepage](https://github.com/Quanghng/BoardGames-in-React-Rtk/assets/90704201/60aa4a7e-8f6e-4a57-b1cb-31f3d180efbc)
 
 ![Kulami](https://github.com/Quanghng/BoardGames-in-React-Rtk/assets/90704201/cf64eaaa-3712-442b-a71a-d19512a730ed)
 
